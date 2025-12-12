@@ -1,0 +1,23 @@
+[
+  {
+    "size": 544,
+    "is_allocated": false,
+    "data": null,
+    "last_used": 0.0,
+    "use_count": 0
+  },
+  {
+    "size": 4,
+    "is_allocated": true,
+    "data": "File_schedule.txt",
+    "last_used": 1762811796.712501,
+    "use_count": 1
+  },
+  {
+    "size": 315,
+    "is_allocated": false,
+    "data": null,
+    "last_used": 0.0,
+    "use_count": 0
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "size": 51,
+    "is_allocated": false,
+    "data": null,
+    "last_used": 0.0,
+    "use_count": 0
+  },
+  {
+    "size": 19,
+    "is_allocated": false,
+    "data": null,
+    "last_used": 0.0,
+    "use_count": 0
+  },
+  {
+    "size": 17,
+    "is_allocated": false,
+    "data": null,
+    "last_used": 0.0,
+    "use_count": 0
+  },
+  {
+    "size": 19,
+    "is_allocated": false,
+    "data": null,
+    "last_used": 0.0,
+    "use_count": 0
+  },
+  {
+    "size": 62,
+    "is_allocated": false,
+    "data": null,
+    "last_used": 0.0,
+    "use_count": 0
+  },
+  {
+    "size": 113,
+    "is_allocated": false,
+    "data": null,
+    "last_used": 0.0,
+    "use_count": 0
+  },
+  {
+    "size": 53,
+    "is_allocated": false,
+    "data": null,
+    "last_used": 0.0,
+    "use_count": 0
+  },
+  {
+    "size": 53,
+    "is_allocated": false,
+    "data": null,
+    "last_used": 0.0,
+    "use_count": 0
+  },
+  {
+    "size": 16,
+    "is_allocated": false,
+    "data": null,
+    "last_used": 0.0,
+    "use_count": 0
+  },
+  {
+    "size": 44,
+    "is_allocated": false,
+    "data": null,
+    "last_used": 0.0,
+    "use_count": 0
+  },
+  {
+    "size": 107,
+    "is_allocated": false,
+    "data": null,
+    "last_used": 0.0,
+    "use_count": 0
+  },
+  {
+    "size": 100,
+    "is_allocated": false,
+    "data": null,
+    "last_used": 0.0,
+    "use_count": 0
+  }
+]
