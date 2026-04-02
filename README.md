@@ -16,6 +16,6 @@ A Python-based system that combines file compression using Huffman algorithm wit
 ---
 ## 📸 Screenshots
 
-![Home Page]()
-![Details Page]()
-![Search Feature]()
+![Home Page](IMG_20251222_095305_647.jpg)
+![Details Page](IMG_20251222_095313_086.jpg)
+![Search Feature](IMG_20260217_234549_465.jpg)
